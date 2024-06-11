@@ -1,8 +1,5 @@
 # Youtube-Summarizer
 
-
-Here's a draft for your README file for the YouTube Content Summarizer project:
-
 ---
 
 # AI-Driven YouTube Content Summarizer
@@ -46,3 +43,4 @@ Follow the instructions in the notebook to input the URL of the YouTube video yo
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improving this tool, please feel free to fork the repository, make your changes, and submit a pull request.
+Draft Readme Developed using OpenAI GPT4
